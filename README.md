@@ -108,5 +108,6 @@ My analytical work is centered around **solving core business problems** — opt
 
 ## 📫 Connect With Me
 * **Email**: [iamravindergupta17@gmail.com](mailto:iamravindergupta17@gmail.com)
-* **Phone / WhatsApp**: +91 9982637026
+* **Phone**: +91 9982637026
+* * **WhatsApp**: [+91 9982637026](https://wa.me/919982637026?text=Hi%20Ravinder,%20saw%20your%20Data%20Analyst%20portfolio)
 * **Location**: Alwar, Rajasthan, India
