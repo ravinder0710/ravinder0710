@@ -133,17 +133,6 @@ My analytical work is centered around **solving core business problems** — opt
   Strategic HR dashboard diagnosing voluntary attrition trends across salary tiers, tenure cohorts, and managerial satisfaction.
 
 ---
-
-## GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravinder0710&show_icons=true&theme=radical&hide_border=true" alt="Ravinder's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinder0710&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Connect With Me
 * **Email**: [iamravindergupta17@gmail.com](mailto:iamravindergupta17@gmail.com)
-* **Phone no. | WhatsApp**: [+91 9982637026](https://wa.me/919982637026?text=Hi%20Ravinder,%20saw%20your%20Data%20Analyst%20portfolio)
-* **Location**: Alwar, Rajasthan, India
+* **Location**: Jaipur, Rajasthan, India
