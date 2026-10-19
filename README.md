@@ -28,7 +28,7 @@ My analytical work is centered around **solving core business problems** — opt
 | **Data Analytics & Scripting** | Python (Pandas, NumPy, Seaborn, Matplotlib), Advanced Microsoft Excel (Power Pivot, xVelocity) |
 | **Data Modeling & Architecture** | Star Schema, Snowflake Schema, Relational Integrity, Kimball Methodology |
 | **AI-Augmented BI Workflows** | FastMCP Servers, LLM Data Pipeline Augmentation, Automated Metric Synthesis |
-| **Web & UI Foundations** | HTML5, CSS3, JSON Data Schemas, Git, GitHub Actions |
+| **Web & UI Foundations** | HTML5, CSS3, JavaScript, React, JSON Data Schemas, Git, GitHub Actions |
 
 ---
 
