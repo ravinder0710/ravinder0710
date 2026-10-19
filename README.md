@@ -1,4 +1,4 @@
-# Hi there, I'm Ravinder Gupta 👋
+# Hi there, I'm Ravinder Gupta
 ### 📊 Data Analyst | Business Intelligence & Analytics Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ravinder0710&color=blueviolet&style=flat-square)
@@ -9,20 +9,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 I am a business-driven and analytical **Data Analyst**, specializing in transforming complex transactional, behavioral, and operational datasets into executive-ready business intelligence. 
 
 My analytical work is centered around **solving core business problems** — optimizing enterprise cash-flow, mitigating systemic fraud, reducing customer churn, tracking operational transit efficiencies, and orchestrating scalable relational data models. I bridge the gap between technical data engineering pipelines and bottom-line strategic decisions, leveraging modern analytics tooling and **AI-augmented workflows** (LLM code synthesis, Prompt Engineering, Exploratory Data Analysis & FastMCP) to deliver high-impact diagnostic, predictive, and prescriptive intelligence.
 
-- 💼 **Primary Focus**: Descriptive & Diagnostic Analytics, Star/Snowflake Dimensional Modeling, Executive Dashboards.
-- 🎯 **Solving For**: Revenue Leakage, Operational Latency, Portfolio Risk, and Customer Lifetime Value (CLV).
-- 🚀 **Continuous Upskilling**: Snowflake Cloud DW, Modern Cloud ETL Pipelines, Machine Learning (Scikit-Learn) & RAG Architectures.
+- **Primary Focus**: Descriptive & Diagnostic Analytics, Star/Snowflake Dimensional Modeling, Executive Dashboards.
+-  **Solving For**: Revenue Leakage, Operational Latency, Portfolio Risk, and Customer Lifetime Value (CLV).
+-  **Continuous Upskilling**: Snowflake Cloud DW, Modern Cloud ETL Pipelines, Machine Learning (Scikit-Learn) & RAG Architectures.
 
 ---
 
-## 🛠️ Technical Skills & Capabilities
+## Technical Skills & Capabilities
 
-### 📊 Business Intelligence & Visualization
+### Business Intelligence & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX Studio](https://img.shields.io/badge/DAX_Studio-00758F?style=for-the-badge&logo=windows&logoColor=white)
 ![Advanced Excel](https://img.shields.io/badge/MS_Excel_(Power_Pivot)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -30,13 +30,13 @@ My analytical work is centered around **solving core business problems** — opt
 ![Canva](https://img.shields.io/badge/Canva_(Dashboard_UI)-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
-### 🗄️ Database, SQL & Data Modeling
+### Database, SQL & Data Modeling
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Star Schema](https://img.shields.io/badge/Star_&_Snowflake_Schema-00599C?style=for-the-badge&logo=databricks&logoColor=white)
 ![Relational Modeling](https://img.shields.io/badge/Relational_Data_Modeling-333333?style=for-the-badge)
 
-### 🐍 Python Data Analytics & Automation
+### Python Data Analytics & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -44,7 +44,7 @@ My analytical work is centered around **solving core business problems** — opt
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🤖 AI-Augmented Analytics & Prompt Engineering
+### AI-Augmented Analytics & Prompt Engineering
 ![ChatGPT ADA](https://img.shields.io/badge/ChatGPT_ADA_(Advanced_Data_Analysis)-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/FastMCP_Servers-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI_Analytics-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -52,12 +52,12 @@ My analytical work is centered around **solving core business problems** — opt
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌐 Web Foundations & Data Formats
+### Web Foundations & Data Formats
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### 🚀 Target Specializations & Learning Track
+### Target Specializations & Learning Track
 ![Snowflake](https://img.shields.io/badge/Snowflake_Cloud_DW-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![ETL Pipelines](https://img.shields.io/badge/Cloud_ETL_Pipelines-0052CC?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning_(Scikit--Learn)-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -65,7 +65,7 @@ My analytical work is centered around **solving core business problems** — opt
 
 ---
 
-## 📂 Flagship Analytics Projects Suite
+## Flagship Analytics Projects Suite
 
 ### 1. 🏦 Banking & Financial Risk Intelligence
 * **[Bank Loan Portfolio Risk & Liquidity Analytics](https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python)**  
