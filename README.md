@@ -1,5 +1,5 @@
 # Hi there, I'm Ravinder Gupta 👋
-### 📊 Senior Data Analyst | Business Intelligence & Analytics Specialist
+### 📊 Data Analyst | Business Intelligence & Analytics Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ravinder0710&color=blueviolet&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
