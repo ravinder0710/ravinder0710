@@ -1,5 +1,5 @@
 # Hi there, I'm Ravinder Gupta
-### 📊 Data Analyst | Business Intelligence & Analytics Specialist
+### Data Analyst | Business Intelligence & Analytics Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ravinder0710&color=blueviolet&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -67,7 +67,7 @@ My analytical work is centered around **solving core business problems** — opt
 
 ## Flagship Analytics Projects Suite
 
-### 1. 🏦 Banking & Financial Risk Intelligence
+### 1. Banking & Financial Risk Intelligence
 * **[Bank Loan Portfolio Risk & Liquidity Analytics](https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python)**  
   *Stack: MySQL · Power BI · Python · DAX*  
   Engineered an end-to-end liquidity and credit quality dashboard tracking $435M+ in loan disbursements. Built SQL-driven KPI metrics (DTI, default ratios, bad debt allocations) and interactive risk-monitoring views.
@@ -82,7 +82,7 @@ My analytical work is centered around **solving core business problems** — opt
 
 ---
 
-### 2. 🛒 Retail, Sales & Fleet Logistics Intelligence
+### 2. Retail, Sales & Fleet Logistics Intelligence
 * **[Global Retail Sales & Profit Intelligence (AdventureWorks DW)](https://github.com/ravinder0710/adventure-works-sales-profit-excel)**  
   *Stack: Microsoft Excel · Power Query · Power Pivot · DAX (xVelocity)*  
   Modeled millions of retail rows into an optimized in-memory xVelocity Data Model. Designed automated gross margin, MoM growth, and customer regional segmentation reports with zero external BI dependencies.
@@ -97,7 +97,7 @@ My analytical work is centered around **solving core business problems** — opt
 
 ---
 
-### 3. 👥 Customer Intelligence & Retention Analytics
+### 3. Customer Intelligence & Retention Analytics
 * **[Customer Churn Behavioral Analytics & Retention Engine](https://github.com/ravinder0710/customer-churn-analysis-python)**  
   *Stack: Python (Pandas, NumPy, Seaborn, Matplotlib) · EDA*  
   Diagnostic EDA uncovering critical churn triggers across 10,000+ subscriber accounts. Identified contract tenure vulnerability thresholds and quantified revenue leakage patterns.
@@ -112,7 +112,7 @@ My analytical work is centered around **solving core business problems** — opt
 
 ---
 
-### 4. 🏥 Healthcare & Clinical Patient Analytics
+### 4. Healthcare & Clinical Patient Analytics
 * **[Clinical Outcomes & Healthcare Patient Care Analytics](https://github.com/ravinder0710)** *(Coming Soon)*  
   *Stack: Power BI · Healthcare BI Metrics · Star Schema · DAX*  
   Comprehensive healthcare operations dashboard tracking hospital patient admissions, average length of stay (ALOS), readmission rates, and department-level bed occupancy.
@@ -123,7 +123,7 @@ My analytical work is centered around **solving core business problems** — opt
 
 ---
 
-### 5. 🍽️ Hospitality & Talent Operations
+### 5. Hospitality & Talent Operations
 * **[Emperor Restaurant Enterprise Operational Analytics](https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi)**  
   *Stack: Power BI · Star Schema · DAX · Power Query*  
   End-to-end restaurant analytics platform tracking table turnaround efficiency, food-cost margin leaks, and menu profitability matrices.
@@ -134,7 +134,7 @@ My analytical work is centered around **solving core business problems** — opt
 
 ---
 
-## 📈 GitHub Contribution Activity
+## GitHub Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravinder0710&show_icons=true&theme=radical&hide_border=true" alt="Ravinder's GitHub Stats" />
@@ -143,7 +143,7 @@ My analytical work is centered around **solving core business problems** — opt
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 * **Email**: [iamravindergupta17@gmail.com](mailto:iamravindergupta17@gmail.com)
 * **WhatsApp**: [+91 9982637026](https://wa.me/919982637026?text=Hi%20Ravinder,%20saw%20your%20Data%20Analyst%20portfolio)
 * **Location**: Alwar, Rajasthan, India
