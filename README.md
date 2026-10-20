@@ -67,7 +67,7 @@ My analytical work is centered around **solving core business problems** — opt
 ## 📂 Flagship Analytics Projects Suite
 
 <p align="left">
-  <a href="https://ravinder0710.github.io/#projects">
+  <a href="https://ravinder0710.github.io/#projects" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Explore_Interactive_Web_Portfolio-ravinder0710.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Web Portfolio" />
   </a>
 </p>
@@ -77,7 +77,7 @@ My analytical work is centered around **solving core business problems** — opt
 ---
 
 ### 1. 🏦 Bank Loan Portfolio Risk & Liquidity Analytics
-🔗 **Repository**: [bank-loan-analysis-sql-powerbi-python](https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python)  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python" target="_blank" rel="noopener noreferrer"><b>bank-loan-analysis-sql-powerbi-python</b></a>  
 🛠️ **Tech Stack**: `MySQL` · `Power BI` · `Python (Pandas, Seaborn)` · `DAX`  
 🎯 **Business Problem**: Financial institutions struggle with undetected credit defaults, unmonitored debt-to-income (DTI) exposure, and fragmented reporting across 38.6K loan applications.  
 💡 **Architecture & Solution**: Architected an end-to-end data pipeline: cleaned and validated raw loan data via Python, designed relational SQL views for automated DTI & default calculations, and built a 3-page interactive Power BI suite with automated Good vs. Bad loan classification.  
@@ -91,16 +91,16 @@ My analytical work is centered around **solving core business problems** — opt
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python">
+      <a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/bank-loan-analysis-sql-powerbi-python/main/dashboard_summary_view.png" width="400" alt="Bank Loan Summary View (Page 1)" />
       </a>
       <br /><br />
-      <a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python">
+      <a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/bank-loan-analysis-sql-powerbi-python/main/dashboard_overview_view.png" width="400" alt="Bank Loan Overview & Trends View (Page 2)" />
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python">
+      <a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/bank-loan-analysis-sql-powerbi-python_pipeline.png" width="400" alt="Bank Loan Data Architecture Pipeline" />
       </a>
     </td>
@@ -110,7 +110,7 @@ My analytical work is centered around **solving core business problems** — opt
 ---
 
 ### 2. 🛡️ Financial Fraud Behavioral Risk & Anomaly Intelligence
-🔗 **Repository**: [fraud-intelligence-dashboard-powerbi-calude-MCP](https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP)  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP" target="_blank" rel="noopener noreferrer"><b>fraud-intelligence-dashboard-powerbi-calude-MCP</b></a>  
 🛠️ **Tech Stack**: `Power BI` · `FastMCP (Claude AI Server)` · `DAX` · `Forensic Behavioral Modeling`  
 🎯 **Business Problem**: Rapid proliferation of synthetic identities and high-velocity international transaction fraud causing high financial leakage and slow investigation cycles.  
 💡 **Architecture & Solution**: Ingested 100K+ transactional records into an enterprise forensic data model. Integrated a custom Python FastMCP server interfacing directly with Claude AI to generate dynamic narrative forensics, risk factor scoring, and velocity heatmaps.  
@@ -124,16 +124,16 @@ My analytical work is centered around **solving core business problems** — opt
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP">
+      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_overview_page.png" width="400" alt="Fraud Investigation Command Center (Page 1)" />
       </a>
       <br /><br />
-      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP">
+      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_descriptions_page.png" width="400" alt="Forensic Anomaly & Factor Diagnostics (Page 2)" />
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP">
+      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/fraud-intelligence-dashboard-powerbi_pipeline.png" width="400" alt="Fraud Data Architecture Pipeline" />
       </a>
     </td>
@@ -143,7 +143,7 @@ My analytical work is centered around **solving core business problems** — opt
 ---
 
 ### 3. 💰 Personal Finance & Wealth Cash-Flow Intelligence
-🔗 **Repository**: [personal-financial-analytics-powerbi](https://github.com/ravinder0710/personal-financial-analytics-powerbi)  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/personal-financial-analytics-powerbi" target="_blank" rel="noopener noreferrer"><b>personal-financial-analytics-powerbi</b></a>  
 🛠️ **Tech Stack**: `Power BI` · `DAX Time Intelligence` · `Power Query` · `Dynamic SVG Visuals`  
 🎯 **Business Problem**: Unstructured household expense tracking across multi-earner families leading to sub-optimal savings rates and delayed wealth compounding.  
 💡 **Architecture & Solution**: Modeled 2,216 granular transactions across 4 family members into a clean star schema with custom DAX Time Intelligence (`MTD`, `YTD`, `YoY`), dynamic SVG linear gauge indicators, and automated 30% savings threshold tracking.  
@@ -156,15 +156,15 @@ My analytical work is centered around **solving core business problems** — opt
     <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/personal-financial-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/personal-financial-analytics-powerbi/main/page_1_financial_overview.png" width="400" alt="Personal Finance Dashboard Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/personal-financial-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/personal-financial-analytics-powerbi_pipeline.png" width="400" alt="Personal Finance Data Architecture Pipeline" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/personal-financial-analytics-powerbi" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/personal-financial-analytics-powerbi/main/page_1_financial_overview.png" width="400" alt="Personal Finance Dashboard Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/personal-financial-analytics-powerbi" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/personal-financial-analytics-powerbi_pipeline.png" width="400" alt="Personal Finance Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
 ---
 
 ### 4. 🛒 Global Retail Sales & Profit Intelligence (AdventureWorks DW)
-🔗 **Repository**: [adventure-works-sales-profit-excel](https://github.com/ravinder0710/adventure-works-sales-profit-excel)  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel" target="_blank" rel="noopener noreferrer"><b>adventure-works-sales-profit-excel</b></a>  
 🛠️ **Tech Stack**: `Microsoft Excel (Power Pivot)` · `Power Query` · `DAX (xVelocity Engine)`  
 🎯 **Business Problem**: Global retail enterprises running legacy spreadsheets fail to scale when processing multi-million row transactional databases, causing analysis paralysis and delayed executive reporting.  
 💡 **Architecture & Solution**: Built an enterprise in-memory columnar database directly inside Excel utilizing the xVelocity compression engine. Designed 25+ DAX calculated measures, automated M-code ETL transformations, and dynamic KPI trendlines with zero external software licensing costs.  
@@ -178,12 +178,12 @@ My analytical work is centered around **solving core business problems** — opt
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel">
+      <a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/adventure-works-sales-profit-excel/main/dashboard_time_analysis.png" width="400" alt="AdventureWorks Sales & Margin Trends" />
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel">
+      <a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/adventure-works-sales-profit-excel_pipeline.png" width="400" alt="AdventureWorks Data Architecture Pipeline" />
       </a>
     </td>
@@ -193,7 +193,7 @@ My analytical work is centered around **solving core business problems** — opt
 ---
 
 ### 5. 🚌 Public Transit & Fleet Operations Intelligence Dashboard
-🔗 **Repository**: [public-transit-fleet-operations-excel-claude-MCP](https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP)  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP" target="_blank" rel="noopener noreferrer"><b>public-transit-fleet-operations-excel-claude-MCP</b></a>  
 🛠️ **Tech Stack**: `Microsoft Excel` · `Power Pivot` · `DAX` · `Claude AI FastMCP` · `Power Query`  
 🎯 **Business Problem**: Urban transit networks suffer from route congestion, peak-hour fleet under-capacity, and unoptimized fare collection models.  
 💡 **Architecture & Solution**: Orchestrated a relational transit model tracking 6,585 passenger journeys across multi-modal bus routes. Built an automated FastMCP bridge connecting Excel dimensional models with Claude AI for on-demand operational diagnostic summaries.  
@@ -206,15 +206,15 @@ My analytical work is centered around **solving core business problems** — opt
     <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP/main/transport_transaction_dashboard.png" width="400" alt="Public Transit Dashboard Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/public-transit-fleet-operations-excel_pipeline.png" width="400" alt="Public Transit Data Architecture Pipeline" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP/main/transport_transaction_dashboard.png" width="400" alt="Public Transit Dashboard Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/public-transit-fleet-operations-excel_pipeline.png" width="400" alt="Public Transit Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
 ---
 
 ### 6. ☕ Coffee Shop Sales & Market Expansion Intelligence
-🔗 **Repository**: [coffee-shop-sales-sql-powerbi](https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi)  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi" target="_blank" rel="noopener noreferrer"><b>coffee-shop-sales-sql-powerbi</b></a>  
 🛠️ **Tech Stack**: `PostgreSQL` · `MySQL` · `Power BI` · `DAX Time Intelligence`  
 🎯 **Business Problem**: QSR retail chains need data-backed city selection models for cross-country market expansion while maximizing hourly revenue per store.  
 💡 **Architecture & Solution**: Cleaned and synthesized 149,116 point-of-sale transactions across NYC. Designed an advanced 10-query SQL analytical framework (`CTEs`, `DENSE_RANK()`, `LAG()` window functions) and evaluated demographic and coffee consumption metrics across 14 Indian metropolitan markets.  
@@ -227,15 +227,15 @@ My analytical work is centered around **solving core business problems** — opt
     <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/coffee-shop-sales-sql-powerbi/main/assets/coffee_shop_sales_dashboard.png" width="400" alt="Coffee Shop Dashboard Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/coffee-shop-sales-sql-powerbi_pipeline.png" width="400" alt="Coffee Shop Data Architecture Pipeline" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/coffee-shop-sales-sql-powerbi/main/assets/coffee_shop_sales_dashboard.png" width="400" alt="Coffee Shop Dashboard Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/coffee-shop-sales-sql-powerbi_pipeline.png" width="400" alt="Coffee Shop Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
 ---
 
 ### 7. 📉 Customer Churn Behavioral Analytics & Retention Engine
-🔗 **Repository**: [customer-churn-analysis-python](https://github.com/ravinder0710/customer-churn-analysis-python)  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/customer-churn-analysis-python" target="_blank" rel="noopener noreferrer"><b>customer-churn-analysis-python</b></a>  
 🛠️ **Tech Stack**: `Python (Pandas, NumPy, Seaborn, Matplotlib)` · `Exploratory Data Analysis`  
 🎯 **Business Problem**: Subscription service businesses losing predictable monthly recurring revenue (MRR) due to lack of early churn detection.  
 💡 **Architecture & Solution**: Conducted end-to-end Python statistical EDA on 10,000+ subscriber records. Engineered feature correlations, tenure cohorts, and support ticket escalation matrices to isolate behavioral churn precursors.  
@@ -248,15 +248,15 @@ My analytical work is centered around **solving core business problems** — opt
     <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/customer-churn-analysis-python"><img src="https://raw.githubusercontent.com/ravinder0710/customer-churn-analysis-python/main/customer_distribution_by_churn_risk.png" width="400" alt="Customer Churn Risk Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/customer-churn-analysis-python"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/customer-churn-analysis-python_pipeline.png" width="400" alt="Customer Churn Data Architecture Pipeline" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/customer-churn-analysis-python" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/customer-churn-analysis-python/main/customer_distribution_by_churn_risk.png" width="400" alt="Customer Churn Risk Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/customer-churn-analysis-python" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/customer-churn-analysis-python_pipeline.png" width="400" alt="Customer Churn Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
 ---
 
 ### 8. 📱 Meta Ad Campaign Performance & Marketing Intelligence
-🔗 **Repository**: [meta-ad-campaign-performance-powerbi](https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi)  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi" target="_blank" rel="noopener noreferrer"><b>meta-ad-campaign-performance-powerbi</b></a>  
 🛠️ **Tech Stack**: `Power BI` · `DAX Parameterization` · `PostgreSQL` · `Snowflake Schema`  
 🎯 **Business Problem**: Inefficient digital marketing ad spend across multi-platform campaigns with unclear creative format attribution.  
 💡 **Architecture & Solution**: Evaluated 400,000+ ad event logs across Facebook & Instagram for a **$2.54M ad budget**. Designed a dynamic Snowflake schema with parameter-driven DAX metrics (`CTR`, `CPC`, `ROAS`, `CVR`) allowing live channel comparison.  
@@ -269,15 +269,15 @@ My analytical work is centered around **solving core business problems** — opt
     <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/meta-ad-campaign-performance-powerbi/main/assets/meta_ad_facebook_dashboard.png" width="400" alt="Meta Ad Facebook Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/meta-ad-campaign-performance-powerbi_pipeline.png" width="400" alt="Meta Ad Data Architecture Pipeline" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/meta-ad-campaign-performance-powerbi/main/assets/meta_ad_facebook_dashboard.png" width="400" alt="Meta Ad Facebook Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/meta-ad-campaign-performance-powerbi_pipeline.png" width="400" alt="Meta Ad Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
 ---
 
 ### 9. 🍽️ Emperor Cuisine Restaurant Enterprise BI Platform
-🔗 **Repository**: [emperor-restaurant-analytics-powerbi](https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi)  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi" target="_blank" rel="noopener noreferrer"><b>emperor-restaurant-analytics-powerbi</b></a>  
 🛠️ **Tech Stack**: `Power BI (24 Pages)` · `Star Schema (11 Dims + 12 Facts)` · `DAX` · `AI Sentiment`  
 🎯 **Business Problem**: Multi-branch restaurant group experiencing margin compression, unoptimized table turnover, and lack of branch-level promotional visibility.  
 💡 **Architecture & Solution**: Architected an enterprise-scale 24-page analytical BI platform supported by a resilient star schema containing 11 dimension and 12 fact tables. Implemented AI sentiment analysis on customer feedback and automated branch revenue pacing.  
@@ -290,15 +290,15 @@ My analytical work is centered around **solving core business problems** — opt
     <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/emperor-restaurant-analytics-powerbi/main/page_01_overview.png" width="400" alt="Emperor Cuisine Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/emperor-restaurant-analytics-powerbi_pipeline.png" width="400" alt="Emperor Restaurant Data Architecture Pipeline" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/emperor-restaurant-analytics-powerbi/main/page_01_overview.png" width="400" alt="Emperor Cuisine Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/emperor-restaurant-analytics-powerbi_pipeline.png" width="400" alt="Emperor Restaurant Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
 ---
 
 ### 10. 👥 HR Workforce Intelligence & Decision Support Dashboard
-🔗 **Repository**: [hr-workforce-intelligence-powerbi](https://github.com/ravinder0710/hr-workforce-intelligence-powerbi)  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi" target="_blank" rel="noopener noreferrer"><b>hr-workforce-intelligence-powerbi</b></a>  
 🛠️ **Tech Stack**: `Power BI (6 Pages)` · `Power Query` · `DAX` · `Rule-Based Decision Support`  
 🎯 **Business Problem**: People operations departments struggle with non-standardized promotion criteria, unmonitored department attrition, and compliance risks during talent restructuring.  
 💡 **Architecture & Solution**: Developed an enterprise 6-page HR intelligence dashboard diagnosing attrition patterns across 2,925 employee records. Engineered automated DAX rule engines to screen candidate eligibility against strict performance and tenure metrics.  
@@ -312,16 +312,16 @@ My analytical work is centered around **solving core business problems** — opt
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi">
+      <a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/hr-workforce-intelligence-powerbi/main/hr_dashboard_page_1.png" width="400" alt="HR Workforce Demographics (Page 1)" />
       </a>
       <br /><br />
-      <a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi">
+      <a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/hr-workforce-intelligence-powerbi/main/hr_dashboard_page_4.png" width="400" alt="HR Retrenchment & Promotion Decision Grid (Page 4)" />
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi">
+      <a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/hr-workforce-intelligence-powerbi_pipeline.png" width="400" alt="HR Workforce Data Architecture Pipeline" />
       </a>
     </td>
@@ -340,8 +340,8 @@ My analytical work is centered around **solving core business problems** — opt
 ---
 
 ## 📫 Connect With Me
-* **Live Web Portfolio**: [ravinder0710.github.io](https://ravinder0710.github.io)
-* **Email**: [iamravindergupta17@gmail.com](mailto:iamravindergupta17@gmail.com)
-* **GitHub**: [github.com/ravinder0710](https://github.com/ravinder0710)
-* **LinkedIn**: [linkedin.com](https://linkedin.com)
+* **Live Web Portfolio**: <a href="https://ravinder0710.github.io" target="_blank" rel="noopener noreferrer"><b>ravinder0710.github.io</b></a>
+* **Email**: <a href="mailto:iamravindergupta17@gmail.com">iamravindergupta17@gmail.com</a>
+* **GitHub**: <a href="https://github.com/ravinder0710" target="_blank" rel="noopener noreferrer"><b>github.com/ravinder0710</b></a>
+* **LinkedIn**: <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><b>linkedin.com</b></a>
 * **Location**: Gurugram (Delhi-NCR), India
