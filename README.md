@@ -79,12 +79,12 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Executive Summary Dashboard</b></td>
-    <td width="50%" align="center"><b>🏗️ Portfolio Risk & Overview Grid</b></td>
+    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python"><img src="https://raw.githubusercontent.com/ravinder0710/bank-loan-analysis-sql-powerbi-python/main/dashboard_summary_view.png" width="400" alt="Bank Loan Summary Dashboard" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python"><img src="https://raw.githubusercontent.com/ravinder0710/bank-loan-analysis-sql-powerbi-python/main/dashboard_overview_view.png" width="400" alt="Bank Loan Overview Grid" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python"><img src="https://raw.githubusercontent.com/ravinder0710/bank-loan-analysis-sql-powerbi-python/main/dashboard_summary_view.png" width="400" alt="Bank Loan Dashboard Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/bank-loan-analysis-sql-powerbi-python_pipeline.png" width="400" alt="Bank Loan Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
@@ -99,12 +99,12 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Fraud Investigation Command Center</b></td>
-    <td width="50%" align="center"><b>🏗️ Forensic Anomaly & Factor Diagnostics</b></td>
+    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_overview_page.png" width="400" alt="Fraud Investigation Command Center" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_descriptions_page.png" width="400" alt="Forensic Anomaly Diagnostics" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_overview_page.png" width="400" alt="Fraud Intelligence Dashboard Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/fraud-intelligence-dashboard-powerbi_pipeline.png" width="400" alt="Fraud Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
@@ -119,12 +119,12 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Executive Financial Health Overview</b></td>
-    <td width="50%" align="center"><b>🏗️ Relational Star Schema Data Model</b></td>
+    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/personal-financial-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/personal-financial-analytics-powerbi/main/page_1_financial_overview.png" width="400" alt="Financial Health Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/personal-financial-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/personal-financial-analytics-powerbi/main/model_view_schema.png" width="400" alt="Data Model Schema" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/personal-financial-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/personal-financial-analytics-powerbi/main/page_1_financial_overview.png" width="400" alt="Personal Finance Dashboard Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/personal-financial-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/personal-financial-analytics-powerbi_pipeline.png" width="400" alt="Personal Finance Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
@@ -139,12 +139,12 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Multi-Year Sales & Profit Trends</b></td>
-    <td width="50%" align="center"><b>🏗️ Granular Drill-Down & Territory Matrix</b></td>
+    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel"><img src="https://raw.githubusercontent.com/ravinder0710/adventure-works-sales-profit-excel/main/screenshots/dashboard_time_analysis.png" width="400" alt="Sales Trends Dashboard" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel"><img src="https://raw.githubusercontent.com/ravinder0710/adventure-works-sales-profit-excel/main/screenshots/dashboard_details_view.png" width="400" alt="Granular Details View" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel"><img src="https://raw.githubusercontent.com/ravinder0710/adventure-works-sales-profit-excel/main/screenshots/dashboard_time_analysis.png" width="400" alt="AdventureWorks Dashboard Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/adventure-works-sales-profit-excel_pipeline.png" width="400" alt="AdventureWorks Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
@@ -159,12 +159,12 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Fleet Transit Operations Command</b></td>
-    <td width="50%" align="center"><b>🏗️ Relational Dimension Model & Schema</b></td>
+    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP/main/transport_transaction_dashboard.png" width="400" alt="Transit Operations Command" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP/main/data_model_relationships.png" width="400" alt="Relational Data Model" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP/main/transport_transaction_dashboard.png" width="400" alt="Public Transit Dashboard Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/public-transit-fleet-operations-excel_pipeline.png" width="400" alt="Public Transit Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
@@ -179,12 +179,12 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 POS Transaction & Revenue Intelligence</b></td>
-    <td width="50%" align="center"><b>🏗️ Multi-City Expansion Strategic Roadmap</b></td>
+    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/coffee-shop-sales-sql-powerbi/main/assets/coffee_shop_sales_dashboard.png" width="400" alt="Coffee Sales Dashboard" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/coffee-shop-sales-sql-powerbi/main/assets/expansion_recommendations.png" width="400" alt="Expansion Roadmap" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/coffee-shop-sales-sql-powerbi/main/assets/coffee_shop_sales_dashboard.png" width="400" alt="Coffee Shop Dashboard Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/coffee-shop-sales-sql-powerbi_pipeline.png" width="400" alt="Coffee Shop Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
@@ -199,12 +199,12 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Customer Churn Risk Distribution</b></td>
-    <td width="50%" align="center"><b>🏗️ Correlation Matrix & Feature Heatmap</b></td>
+    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/customer-churn-analysis-python"><img src="https://raw.githubusercontent.com/ravinder0710/customer-churn-analysis-python/main/customer_distribution_by_churn_risk.png" width="400" alt="Churn Risk Distribution" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/customer-churn-analysis-python"><img src="https://raw.githubusercontent.com/ravinder0710/customer-churn-analysis-python/main/correlation_heatmap_key_metrics.png" width="400" alt="Correlation Matrix" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/customer-churn-analysis-python"><img src="https://raw.githubusercontent.com/ravinder0710/customer-churn-analysis-python/main/customer_distribution_by_churn_risk.png" width="400" alt="Customer Churn Risk Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/customer-churn-analysis-python"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/customer-churn-analysis-python_pipeline.png" width="400" alt="Customer Churn Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
@@ -219,12 +219,12 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Facebook Performance & Funnel View</b></td>
-    <td width="50%" align="center"><b>🏗️ Instagram Attribution & Placement View</b></td>
+    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/meta-ad-campaign-performance-powerbi/main/assets/meta_ad_facebook_dashboard.png" width="400" alt="Facebook Ad Dashboard" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/meta-ad-campaign-performance-powerbi/main/assets/meta_ad_instagram_dashboard.png" width="400" alt="Instagram Ad Dashboard" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/meta-ad-campaign-performance-powerbi/main/assets/meta_ad_facebook_dashboard.png" width="400" alt="Meta Ad Facebook Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/meta-ad-campaign-performance-powerbi_pipeline.png" width="400" alt="Meta Ad Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
@@ -239,12 +239,12 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Enterprise Executive Overview (Page 1)</b></td>
-    <td width="50%" align="center"><b>🏗️ Star Schema Architecture (11 Dims + 12 Facts)</b></td>
+    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/emperor-restaurant-analytics-powerbi/main/page_01_overview.png" width="400" alt="Emperor Restaurant Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/emperor-restaurant-analytics-powerbi/main/Star_Schema_Diagram.svg" width="400" alt="Star Schema Architecture" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/emperor-restaurant-analytics-powerbi/main/page_01_overview.png" width="400" alt="Emperor Cuisine Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/emperor-restaurant-analytics-powerbi_pipeline.png" width="400" alt="Emperor Restaurant Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
@@ -259,12 +259,12 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Workforce Demographics & Headcount</b></td>
-    <td width="50%" align="center"><b>🏗️ Retrenchment & Promotion Decision Grid</b></td>
+    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/hr-workforce-intelligence-powerbi/main/hr_dashboard_page_1.png" width="400" alt="HR Demographics Dashboard" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/hr-workforce-intelligence-powerbi/main/hr_dashboard_page_4.png" width="400" alt="HR Retrenchment Decision Grid" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/hr-workforce-intelligence-powerbi/main/hr_dashboard_page_1.png" width="400" alt="HR Workforce Dashboard Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/hr-workforce-intelligence-powerbi_pipeline.png" width="400" alt="HR Workforce Data Architecture Pipeline" /></a></td>
   </tr>
 </table>
 
