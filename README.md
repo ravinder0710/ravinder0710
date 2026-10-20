@@ -2,7 +2,7 @@
 ### 📊 Data Analyst | Business Intelligence & Analytics Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ravinder0710&color=blueviolet&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravinder-gupta-da)
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Website-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://ravinder0710.github.io)
 [![Email](https://img.shields.io/badge/Email-iamravindergupta17%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:iamravindergupta17@gmail.com)
 
@@ -334,5 +334,5 @@ My analytical work is centered around **solving core business problems** — opt
 * **Live Web Portfolio**: <a href="https://ravinder0710.github.io" target="_blank" rel="noopener noreferrer"><b>ravinder0710.github.io</b></a>
 * **Email**: <a href="mailto:iamravindergupta17@gmail.com">iamravindergupta17@gmail.com</a>
 * **GitHub**: <a href="https://github.com/ravinder0710" target="_blank" rel="noopener noreferrer"><b>github.com/ravinder0710</b></a>
-* **LinkedIn**: <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><b>linkedin.com</b></a>
+* **LinkedIn**: <a href="https://www.linkedin.com/in/ravinder-gupta-da" target="_blank" rel="noopener noreferrer"><b>linkedin.com/in/ravinder-gupta-da</b></a>
 * **Location**: Gurugram (Delhi-NCR), India
