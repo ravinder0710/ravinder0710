@@ -330,15 +330,6 @@ My analytical work is centered around **solving core business problems** — opt
 
 ---
 
-## 📈 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravinder0710&show_icons=true&theme=radical&hide_border=true" alt="Ravinder's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinder0710&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect With Me
 * **Live Web Portfolio**: <a href="https://ravinder0710.github.io" target="_blank" rel="noopener noreferrer"><b>ravinder0710.github.io</b></a>
 * **Email**: <a href="mailto:iamravindergupta17@gmail.com">iamravindergupta17@gmail.com</a>
