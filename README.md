@@ -3,9 +3,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ravinder0710&color=blueviolet&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Active-success?style=flat-square)](#-flagship-projects-suite)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Active-success?style=flat-square)](#-flagship-analytics-projects-suite)
 [![Email](https://img.shields.io/badge/Email-iamravindergupta17%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:iamravindergupta17@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919982637026?text=Hi%20Ravinder,%20saw%20your%20Data%20Analyst%20portfolio)
+
+> 💼 **10 Enterprise BI Projects** &nbsp;·&nbsp; 📊 **550,000+ Records Analyzed** &nbsp;·&nbsp; 💰 **$750M+ Financial & Marketing Volume Monitored** &nbsp;·&nbsp; 📍 **Gurugram (Delhi-NCR)**
 
 ---
 
@@ -67,70 +68,205 @@ My analytical work is centered around **solving core business problems** — opt
 
 ## 📂 Flagship Analytics Projects Suite
 
-### 1. 🏦 Banking & Financial Risk Intelligence
-* **[Bank Loan Portfolio Risk & Liquidity Analytics](https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python)**  
-  *Stack: MySQL · Power BI · Python · DAX*  
-  Engineered an end-to-end liquidity and credit quality dashboard tracking $435M+ in loan disbursements. Built SQL-driven KPI metrics (DTI, default ratios, bad debt allocations) and interactive risk-monitoring views.
+---
 
-* **[Financial Fraud Behavioral Risk & Anomaly Intelligence](https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP)**  
-  *Stack: Power BI · FastMCP Claude Server · DAX · Forensic Modeling*  
-  Enterprise fraud surveillance system analyzing 100K+ transactional records. Leveraged dynamic risk scoring and AI-driven forensic reporting to flag synthetic fraud and unauthorized velocity spikes.
+### 1. 🏦 Bank Loan Portfolio Risk & Liquidity Analytics
+🔗 **Repository**: [bank-loan-analysis-sql-powerbi-python](https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python)  
+🛠️ **Tech Stack**: `MySQL` · `Power BI` · `Python (Pandas, Seaborn)` · `DAX`  
+🎯 **Business Problem**: Financial institutions struggle with undetected credit defaults, unmonitored debt-to-income (DTI) exposure, and fragmented reporting across 38.6K loan applications.  
+💡 **Architecture & Solution**: Architected an end-to-end data pipeline: cleaned and validated raw loan data via Python, designed relational SQL views for automated DTI & default calculations, and built a 3-page interactive Power BI suite with automated Good vs. Bad loan classification.  
+📈 **Commercial Impact**: Monitored **$435M+ in disbursements**, successfully isolated **$65.5M in healthy liquidity**, and benchmarked default recoveries at **56.9%**, enabling immediate capital reserve adjustments.
 
-* **[Personal Finance & Wealth Cash-Flow Intelligence](https://github.com/ravinder0710/personal-financial-analytics-powerbi)**  
-  *Stack: Power BI · DAX Time Intelligence · Power Query · SVG Visuals*  
-  Interactive household financial intelligence dashboard analyzing 2,216 transactions ($1.82M income, $1.28M expenses) across 4 family members with dynamic 30% savings benchmarking.
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 Executive Summary Dashboard</b></td>
+    <td width="50%" align="center"><b>🏗️ Portfolio Risk & Overview Grid</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python"><img src="https://raw.githubusercontent.com/ravinder0710/bank-loan-analysis-sql-powerbi-python/main/dashboard_summary_view.png" width="400" alt="Bank Loan Summary Dashboard" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python"><img src="https://raw.githubusercontent.com/ravinder0710/bank-loan-analysis-sql-powerbi-python/main/dashboard_overview_view.png" width="400" alt="Bank Loan Overview Grid" /></a></td>
+  </tr>
+</table>
 
 ---
 
-### 2. 🛒 Retail, Sales & Fleet Logistics Intelligence
-* **[Global Retail Sales & Profit Intelligence (AdventureWorks DW)](https://github.com/ravinder0710/adventure-works-sales-profit-excel)**  
-  *Stack: Microsoft Excel · Power Query · Power Pivot · DAX (xVelocity)*  
-  Modeled millions of retail rows into an optimized in-memory xVelocity Data Model. Designed automated gross margin, MoM growth, and customer regional segmentation reports with zero external BI dependencies.
+### 2. 🛡️ Financial Fraud Behavioral Risk & Anomaly Intelligence
+🔗 **Repository**: [fraud-intelligence-dashboard-powerbi-calude-MCP](https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP)  
+🛠️ **Tech Stack**: `Power BI` · `FastMCP (Claude AI Server)` · `DAX` · `Forensic Behavioral Modeling`  
+🎯 **Business Problem**: Rapid proliferation of synthetic identities and high-velocity international transaction fraud causing high financial leakage and slow investigation cycles.  
+💡 **Architecture & Solution**: Ingested 100K+ transactional records into an enterprise forensic data model. Integrated a custom Python FastMCP server interfacing directly with Claude AI to generate dynamic narrative forensics, risk factor scoring, and velocity heatmaps.  
+📈 **Commercial Impact**: Isolated extreme fraud signals with **10.2x risk uplift on foreign IP clusters**, reduced fraud analyst triage time from hours to seconds, and protected critical payment rails.
 
-* **[Public Transit & Fleet Operations Intelligence Dashboard](https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP)**  
-  *Stack: Microsoft Excel · Power Pivot · DAX · Claude AI MCP · Power Query*  
-  Urban mobility and fleet utilization platform tracking 6.5K+ passenger trips, peak/off-peak ridership, route bottlenecks, and bus capacity optimization with an AI-assisted MCP workflow.
-
-* **[Coffee Shop Sales & Market Expansion Intelligence](https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi)**  
-  *Stack: PostgreSQL · MySQL · Power BI · DAX Time Intelligence*  
-  Analyzed 149,116 point-of-sale transactions across NYC locations and evaluated 14 Indian metropolitan markets with a 10-query SQL framework (CTEs, `DENSE_RANK`, `LAG()`) to prioritize top 3 expansion cities (Pune, Delhi, Jaipur) and optimize peak morning rush footfalls.
-
----
-
-### 3. 👥 Customer Intelligence & Retention Analytics
-* **[Customer Churn Behavioral Analytics & Retention Engine](https://github.com/ravinder0710/customer-churn-analysis-python)**  
-  *Stack: Python (Pandas, NumPy, Seaborn, Matplotlib) · EDA*  
-  Diagnostic EDA uncovering critical churn triggers across 10,000+ subscriber accounts. Identified contract tenure vulnerability thresholds and quantified revenue leakage patterns.
-
-* **[Marketing Conversion & Full-Funnel Customer Acquisition](https://github.com/ravinder0710)** *(Coming Soon)*  
-  *Stack: Python · Power BI Funnel Modeling*  
-  Multi-touch attribution and drop-off analytics tracking user journey from impression to customer conversion.
-
-* **[Meta Ad Campaign Performance & Marketing Intelligence](https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi)**  
-  *Stack: Power BI · DAX Parameterization · PostgreSQL · Snowflake Schema*  
-  Evaluated 400,000+ ad event logs across Facebook & Instagram for a $2.54M ad spend. Built full-funnel KPI tracking (339.8K impressions, 11.79% CTR, 5.07% conversion rate), creative format attribution, and dynamic measure switching.
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 Fraud Investigation Command Center</b></td>
+    <td width="50%" align="center"><b>🏗️ Forensic Anomaly & Factor Diagnostics</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_overview_page.png" width="400" alt="Fraud Investigation Command Center" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_descriptions_page.png" width="400" alt="Forensic Anomaly Diagnostics" /></a></td>
+  </tr>
+</table>
 
 ---
 
-### 4. 🏥 Healthcare & Clinical Patient Analytics
-* **[Clinical Outcomes & Healthcare Patient Care Analytics](https://github.com/ravinder0710)** *(Coming Soon)*  
-  *Stack: Power BI · Healthcare BI Metrics · Star Schema · DAX*  
-  Comprehensive healthcare operations dashboard tracking hospital patient admissions, average length of stay (ALOS), readmission rates, and department-level bed occupancy.
+### 3. 💰 Personal Finance & Wealth Cash-Flow Intelligence
+🔗 **Repository**: [personal-financial-analytics-powerbi](https://github.com/ravinder0710/personal-financial-analytics-powerbi)  
+🛠️ **Tech Stack**: `Power BI` · `DAX Time Intelligence` · `Power Query` · `Dynamic SVG Visuals`  
+🎯 **Business Problem**: Unstructured household expense tracking across multi-earner families leading to sub-optimal savings rates and delayed wealth compounding.  
+💡 **Architecture & Solution**: Modeled 2,216 granular transactions across 4 family members into a clean star schema with custom DAX Time Intelligence (`MTD`, `YTD`, `YoY`), dynamic SVG linear gauge indicators, and automated 30% savings threshold tracking.  
+📈 **Commercial Impact**: Reconciled **$1.82M in income against $1.28M in expenditures**, isolating actionable discretionary expense cuts that boosted net household savings velocity to **29.8%**.
 
-* **[Healthcare Clinical Data Analysis & Diagnostic Exploration](https://github.com/ravinder0710)** *(Coming Soon)*  
-  *Stack: Python (Pandas, Seaborn, Matplotlib) · Statistical EDA*  
-  Python-driven exploratory diagnostic analysis evaluating clinical health parameters, disease outcome correlations, and patient treatment trends.
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 Executive Financial Health Overview</b></td>
+    <td width="50%" align="center"><b>🏗️ Relational Star Schema Data Model</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ravinder0710/personal-financial-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/personal-financial-analytics-powerbi/main/page_1_financial_overview.png" width="400" alt="Financial Health Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/personal-financial-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/personal-financial-analytics-powerbi/main/model_view_schema.png" width="400" alt="Data Model Schema" /></a></td>
+  </tr>
+</table>
 
 ---
 
-### 5. 🍽️ Hospitality & Talent Operations
-* **[Emperor Cuisine Restaurant Enterprise BI Platform](https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi)**  
-  *Stack: Power BI (24 Pages) · Star Schema (11 Dims + 12 Facts) · DAX · AI Sentiment*  
-  Comprehensive 24-page enterprise BI suite evaluating RM20.69M sales, dining reservation yield across 5 branches, omnichannel lead attribution, and a prioritized RM799K management action plan.
+### 4. 🛒 Global Retail Sales & Profit Intelligence (AdventureWorks DW)
+🔗 **Repository**: [adventure-works-sales-profit-excel](https://github.com/ravinder0710/adventure-works-sales-profit-excel)  
+🛠️ **Tech Stack**: `Microsoft Excel (Power Pivot)` · `Power Query` · `DAX (xVelocity Engine)`  
+🎯 **Business Problem**: Global retail enterprises running legacy spreadsheets fail to scale when processing multi-million row transactional databases, causing analysis paralysis and delayed executive reporting.  
+💡 **Architecture & Solution**: Built an enterprise in-memory columnar database directly inside Excel utilizing the xVelocity compression engine. Designed 25+ DAX calculated measures, automated M-code ETL transformations, and dynamic KPI trendlines with zero external software licensing costs.  
+📈 **Commercial Impact**: Modeled multi-million dollar global retail sales across 6 territories, surfacing product categories generating 68% of gross profit while flagging unprofitable sub-categories.
 
-* **[HR Workforce Intelligence & Decision Support Dashboard](https://github.com/ravinder0710/hr-workforce-intelligence-powerbi)**  
-  *Stack: Power BI · Power Query · DAX · Rule-Based Decision Support*  
-  Comprehensive 6-page HR analytics suite diagnosing attrition across 2,925 employees and automating screening for promotion (144) and retrenchment (234) reviews.
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 Multi-Year Sales & Profit Trends</b></td>
+    <td width="50%" align="center"><b>🏗️ Granular Drill-Down & Territory Matrix</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel"><img src="https://raw.githubusercontent.com/ravinder0710/adventure-works-sales-profit-excel/main/screenshots/dashboard_time_analysis.png" width="400" alt="Sales Trends Dashboard" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel"><img src="https://raw.githubusercontent.com/ravinder0710/adventure-works-sales-profit-excel/main/screenshots/dashboard_details_view.png" width="400" alt="Granular Details View" /></a></td>
+  </tr>
+</table>
+
+---
+
+### 5. 🚌 Public Transit & Fleet Operations Intelligence Dashboard
+🔗 **Repository**: [public-transit-fleet-operations-excel-claude-MCP](https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP)  
+🛠️ **Tech Stack**: `Microsoft Excel` · `Power Pivot` · `DAX` · `Claude AI FastMCP` · `Power Query`  
+🎯 **Business Problem**: Urban transit networks suffer from route congestion, peak-hour fleet under-capacity, and unoptimized fare collection models.  
+💡 **Architecture & Solution**: Orchestrated a relational transit model tracking 6,585 passenger journeys across multi-modal bus routes. Built an automated FastMCP bridge connecting Excel dimensional models with Claude AI for on-demand operational diagnostic summaries.  
+📈 **Commercial Impact**: Identified 3 critical route bottlenecks operating at >92% load during rush hours, formulating schedule adjustments to redistribute fleet load and prevent passenger wait-time spikes.
+
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 Fleet Transit Operations Command</b></td>
+    <td width="50%" align="center"><b>🏗️ Relational Dimension Model & Schema</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP/main/transport_transaction_dashboard.png" width="400" alt="Transit Operations Command" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP/main/data_model_relationships.png" width="400" alt="Relational Data Model" /></a></td>
+  </tr>
+</table>
+
+---
+
+### 6. ☕ Coffee Shop Sales & Market Expansion Intelligence
+🔗 **Repository**: [coffee-shop-sales-sql-powerbi](https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi)  
+🛠️ **Tech Stack**: `PostgreSQL` · `MySQL` · `Power BI` · `DAX Time Intelligence`  
+🎯 **Business Problem**: QSR retail chains need data-backed city selection models for cross-country market expansion while maximizing hourly revenue per store.  
+💡 **Architecture & Solution**: Cleaned and synthesized 149,116 point-of-sale transactions across NYC. Designed an advanced 10-query SQL analytical framework (`CTEs`, `DENSE_RANK()`, `LAG()` window functions) and evaluated demographic and coffee consumption metrics across 14 Indian metropolitan markets.  
+📈 **Commercial Impact**: Strategically ranked and prioritized top 3 expansion target cities (**Pune, Delhi, Jaipur**) and identified peak morning rush-hour staffing optimization strategies (7 AM - 10 AM) driving 42% of daily revenue.
+
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 POS Transaction & Revenue Intelligence</b></td>
+    <td width="50%" align="center"><b>🏗️ Multi-City Expansion Strategic Roadmap</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/coffee-shop-sales-sql-powerbi/main/assets/coffee_shop_sales_dashboard.png" width="400" alt="Coffee Sales Dashboard" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/coffee-shop-sales-sql-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/coffee-shop-sales-sql-powerbi/main/assets/expansion_recommendations.png" width="400" alt="Expansion Roadmap" /></a></td>
+  </tr>
+</table>
+
+---
+
+### 7. 📉 Customer Churn Behavioral Analytics & Retention Engine
+🔗 **Repository**: [customer-churn-analysis-python](https://github.com/ravinder0710/customer-churn-analysis-python)  
+🛠️ **Tech Stack**: `Python (Pandas, NumPy, Seaborn, Matplotlib)` · `Exploratory Data Analysis`  
+🎯 **Business Problem**: Subscription service businesses losing predictable monthly recurring revenue (MRR) due to lack of early churn detection.  
+💡 **Architecture & Solution**: Conducted end-to-end Python statistical EDA on 10,000+ subscriber records. Engineered feature correlations, tenure cohorts, and support ticket escalation matrices to isolate behavioral churn precursors.  
+📈 **Commercial Impact**: Identified a high-risk churn window during months 1-12 (churn rate >48% for month-to-month contracts), recommending an automated onboarding retention workflow to protect vital recurring revenue.
+
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 Customer Churn Risk Distribution</b></td>
+    <td width="50%" align="center"><b>🏗️ Correlation Matrix & Feature Heatmap</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ravinder0710/customer-churn-analysis-python"><img src="https://raw.githubusercontent.com/ravinder0710/customer-churn-analysis-python/main/customer_distribution_by_churn_risk.png" width="400" alt="Churn Risk Distribution" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/customer-churn-analysis-python"><img src="https://raw.githubusercontent.com/ravinder0710/customer-churn-analysis-python/main/correlation_heatmap_key_metrics.png" width="400" alt="Correlation Matrix" /></a></td>
+  </tr>
+</table>
+
+---
+
+### 8. 📱 Meta Ad Campaign Performance & Marketing Intelligence
+🔗 **Repository**: [meta-ad-campaign-performance-powerbi](https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi)  
+🛠️ **Tech Stack**: `Power BI` · `DAX Parameterization` · `PostgreSQL` · `Snowflake Schema`  
+🎯 **Business Problem**: Inefficient digital marketing ad spend across multi-platform campaigns with unclear creative format attribution.  
+💡 **Architecture & Solution**: Evaluated 400,000+ ad event logs across Facebook & Instagram for a **$2.54M ad budget**. Designed a dynamic Snowflake schema with parameter-driven DAX metrics (`CTR`, `CPC`, `ROAS`, `CVR`) allowing live channel comparison.  
+📈 **Commercial Impact**: Tracked 339.8K total impressions and isolated Instagram Stories as the top converting placement (**5.69% CVR** vs. 3.42% in Feeds), enabling data-driven budget reallocation toward high-converting creatives.
+
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 Facebook Performance & Funnel View</b></td>
+    <td width="50%" align="center"><b>🏗️ Instagram Attribution & Placement View</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/meta-ad-campaign-performance-powerbi/main/assets/meta_ad_facebook_dashboard.png" width="400" alt="Facebook Ad Dashboard" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/meta-ad-campaign-performance-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/meta-ad-campaign-performance-powerbi/main/assets/meta_ad_instagram_dashboard.png" width="400" alt="Instagram Ad Dashboard" /></a></td>
+  </tr>
+</table>
+
+---
+
+### 9. 🍽️ Emperor Cuisine Restaurant Enterprise BI Platform
+🔗 **Repository**: [emperor-restaurant-analytics-powerbi](https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi)  
+🛠️ **Tech Stack**: `Power BI (24 Pages)` · `Star Schema (11 Dims + 12 Facts)` · `DAX` · `AI Sentiment`  
+🎯 **Business Problem**: Multi-branch restaurant group experiencing margin compression, unoptimized table turnover, and lack of branch-level promotional visibility.  
+💡 **Architecture & Solution**: Architected an enterprise-scale 24-page analytical BI platform supported by a resilient star schema containing 11 dimension and 12 fact tables. Implemented AI sentiment analysis on customer feedback and automated branch revenue pacing.  
+📈 **Commercial Impact**: Analyzed **RM20.69M in sales across 5 branches**, formulated a prioritized **RM799K management action plan**, and optimized high-margin dining reservation yields.
+
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 Enterprise Executive Overview (Page 1)</b></td>
+    <td width="50%" align="center"><b>🏗️ Star Schema Architecture (11 Dims + 12 Facts)</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/emperor-restaurant-analytics-powerbi/main/page_01_overview.png" width="400" alt="Emperor Restaurant Overview" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/emperor-restaurant-analytics-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/emperor-restaurant-analytics-powerbi/main/Star_Schema_Diagram.svg" width="400" alt="Star Schema Architecture" /></a></td>
+  </tr>
+</table>
+
+---
+
+### 10. 👥 HR Workforce Intelligence & Decision Support Dashboard
+🔗 **Repository**: [hr-workforce-intelligence-powerbi](https://github.com/ravinder0710/hr-workforce-intelligence-powerbi)  
+🛠️ **Tech Stack**: `Power BI (6 Pages)` · `Power Query` · `DAX` · `Rule-Based Decision Support`  
+🎯 **Business Problem**: People operations departments struggle with non-standardized promotion criteria, unmonitored department attrition, and compliance risks during talent restructuring.  
+💡 **Architecture & Solution**: Developed an enterprise 6-page HR intelligence dashboard diagnosing attrition patterns across 2,925 employee records. Engineered automated DAX rule engines to screen candidate eligibility against strict performance and tenure metrics.  
+📈 **Commercial Impact**: Screened and isolated **144 promotion-ready personnel** while identifying **234 retrenchment-review candidates**, reducing leadership evaluation turnaround by over 60%.
+
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 Workforce Demographics & Headcount</b></td>
+    <td width="50%" align="center"><b>🏗️ Retrenchment & Promotion Decision Grid</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/hr-workforce-intelligence-powerbi/main/hr_dashboard_page_1.png" width="400" alt="HR Demographics Dashboard" /></a></td>
+    <td align="center"><a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/hr-workforce-intelligence-powerbi/main/hr_dashboard_page_4.png" width="400" alt="HR Retrenchment Decision Grid" /></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -146,4 +282,5 @@ My analytical work is centered around **solving core business problems** — opt
 ## 📫 Connect With Me
 * **Email**: [iamravindergupta17@gmail.com](mailto:iamravindergupta17@gmail.com)
 * **GitHub**: [github.com/ravinder0710](https://github.com/ravinder0710)
+* **LinkedIn**: [linkedin.com](https://linkedin.com)
 * **Location**: Gurugram (Delhi-NCR), India
