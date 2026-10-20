@@ -66,6 +66,14 @@ My analytical work is centered around **solving core business problems** — opt
 
 ## 📂 Flagship Analytics Projects Suite
 
+<p align="left">
+  <a href="https://ravinder0710.github.io/#projects">
+    <img src="https://img.shields.io/badge/🌐_Explore_Interactive_Web_Portfolio-ravinder0710.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Web Portfolio" />
+  </a>
+</p>
+
+> 💡 **Interactive Recruiter View**: You can filter all projects by technology (*Power BI, SQL, Python, Excel*) and inspect full-resolution data architecture pipelines directly in your browser at [**ravinder0710.github.io/#projects**](https://ravinder0710.github.io/#projects).
+
 ---
 
 ### 1. 🏦 Bank Loan Portfolio Risk & Liquidity Analytics
