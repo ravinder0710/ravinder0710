@@ -79,12 +79,24 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>📊 Interactive Dashboards (Page 1 Summary & Page 2 Overview)</b></td>
     <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python"><img src="https://raw.githubusercontent.com/ravinder0710/bank-loan-analysis-sql-powerbi-python/main/dashboard_summary_view.png" width="400" alt="Bank Loan Dashboard Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/bank-loan-analysis-sql-powerbi-python_pipeline.png" width="400" alt="Bank Loan Data Architecture Pipeline" /></a></td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python">
+        <img src="https://raw.githubusercontent.com/ravinder0710/bank-loan-analysis-sql-powerbi-python/main/dashboard_summary_view.png" width="400" alt="Bank Loan Summary View (Page 1)" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python">
+        <img src="https://raw.githubusercontent.com/ravinder0710/bank-loan-analysis-sql-powerbi-python/main/dashboard_overview_view.png" width="400" alt="Bank Loan Overview & Trends View (Page 2)" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python">
+        <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/bank-loan-analysis-sql-powerbi-python_pipeline.png" width="400" alt="Bank Loan Data Architecture Pipeline" />
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -99,12 +111,24 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>📊 Interactive Dashboards (Page 1 Overview & Page 2 Forensics)</b></td>
     <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_overview_page.png" width="400" alt="Fraud Intelligence Dashboard Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/fraud-intelligence-dashboard-powerbi_pipeline.png" width="400" alt="Fraud Data Architecture Pipeline" /></a></td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP">
+        <img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_overview_page.png" width="400" alt="Fraud Investigation Command Center (Page 1)" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP">
+        <img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_descriptions_page.png" width="400" alt="Forensic Anomaly & Factor Diagnostics (Page 2)" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP">
+        <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/fraud-intelligence-dashboard-powerbi_pipeline.png" width="400" alt="Fraud Data Architecture Pipeline" />
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -259,12 +283,24 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>📊 Interactive Dashboards (Page 1 Demographics & Page 4 Decision Grid)</b></td>
     <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/hr-workforce-intelligence-powerbi/main/hr_dashboard_page_1.png" width="400" alt="HR Workforce Dashboard Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/hr-workforce-intelligence-powerbi_pipeline.png" width="400" alt="HR Workforce Data Architecture Pipeline" /></a></td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi">
+        <img src="https://raw.githubusercontent.com/ravinder0710/hr-workforce-intelligence-powerbi/main/hr_dashboard_page_1.png" width="400" alt="HR Workforce Demographics (Page 1)" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi">
+        <img src="https://raw.githubusercontent.com/ravinder0710/hr-workforce-intelligence-powerbi/main/hr_dashboard_page_4.png" width="400" alt="HR Retrenchment & Promotion Decision Grid (Page 4)" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/hr-workforce-intelligence-powerbi">
+        <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/hr-workforce-intelligence-powerbi_pipeline.png" width="400" alt="HR Workforce Data Architecture Pipeline" />
+      </a>
+    </td>
   </tr>
 </table>
 
