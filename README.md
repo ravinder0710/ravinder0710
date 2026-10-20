@@ -163,12 +163,24 @@ My analytical work is centered around **solving core business problems** — opt
 
 <table>
   <tr>
-    <td width="50%" align="center"><b>📊 Dashboard 1st Page Overview</b></td>
+    <td width="50%" align="center"><b>📊 Interactive Dashboards (Page 1 Time Trends & Page 2 Details View)</b></td>
     <td width="50%" align="center"><b>🏗️ Data Architecture & Pipeline</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel"><img src="https://raw.githubusercontent.com/ravinder0710/adventure-works-sales-profit-excel/main/screenshots/dashboard_time_analysis.png" width="400" alt="AdventureWorks Dashboard Overview" /></a></td>
-    <td align="center"><a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel"><img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/adventure-works-sales-profit-excel_pipeline.png" width="400" alt="AdventureWorks Data Architecture Pipeline" /></a></td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel">
+        <img src="https://raw.githubusercontent.com/ravinder0710/adventure-works-sales-profit-excel/main/dashboard_time_analysis.png" width="400" alt="AdventureWorks Sales & Margin Trends (Page 1)" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel">
+        <img src="https://raw.githubusercontent.com/ravinder0710/adventure-works-sales-profit-excel/main/dashboard_details_view.png" width="400" alt="AdventureWorks Granular Product & Regional Details (Page 2)" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/adventure-works-sales-profit-excel">
+        <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/adventure-works-sales-profit-excel_pipeline.png" width="400" alt="AdventureWorks Data Architecture Pipeline" />
+      </a>
+    </td>
   </tr>
 </table>
 
