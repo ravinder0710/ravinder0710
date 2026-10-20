@@ -110,7 +110,7 @@ My analytical work is centered around **solving core business problems** — opt
 ---
 
 ### 2. 🛡️ Financial Fraud Behavioral Risk & Anomaly Intelligence
-🔗 **Repository**: <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP" target="_blank" rel="noopener noreferrer"><b>fraud-intelligence-dashboard-powerbi-calude-MCP</b></a>  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-claude-MCP" target="_blank" rel="noopener noreferrer"><b>fraud-intelligence-dashboard-powerbi-claude-MCP</b></a>  
 🛠️ **Tech Stack**: `Power BI` · `FastMCP (Claude AI Server)` · `DAX` · `Forensic Behavioral Modeling`  
 🎯 **Business Problem**: Rapid proliferation of synthetic identities and high-velocity international transaction fraud causing high financial leakage and slow investigation cycles.  
 💡 **Architecture & Solution**: Ingested 100K+ transactional records into an enterprise forensic data model. Integrated a custom Python FastMCP server interfacing directly with Claude AI to generate dynamic narrative forensics, risk factor scoring, and velocity heatmaps.  
@@ -124,16 +124,16 @@ My analytical work is centered around **solving core business problems** — opt
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_overview_page.png" width="400" alt="Fraud Investigation Command Center (Page 1)" />
+      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-claude-MCP" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-claude-MCP/main/dashboard_overview_page.png" width="400" alt="Fraud Investigation Command Center (Page 1)" />
       </a>
       <br /><br />
-      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP/main/dashboard_descriptions_page.png" width="400" alt="Forensic Anomaly & Factor Diagnostics (Page 2)" />
+      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-claude-MCP" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/ravinder0710/fraud-intelligence-dashboard-powerbi-claude-MCP/main/dashboard_descriptions_page.png" width="400" alt="Forensic Anomaly & Factor Diagnostics (Page 2)" />
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-claude-MCP" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/fraud-intelligence-dashboard-powerbi_pipeline.png" width="400" alt="Fraud Data Architecture Pipeline" />
       </a>
     </td>
