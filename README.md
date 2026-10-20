@@ -72,7 +72,7 @@ My analytical work is centered around **solving core business problems** — opt
   *Stack: MySQL · Power BI · Python · DAX*  
   Engineered an end-to-end liquidity and credit quality dashboard tracking $435M+ in loan disbursements. Built SQL-driven KPI metrics (DTI, default ratios, bad debt allocations) and interactive risk-monitoring views.
 
-* **[Financial Fraud Behavioral Risk & Anomaly Intelligence](https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi)**  
+* **[Financial Fraud Behavioral Risk & Anomaly Intelligence](https://github.com/ravinder0710/fraud-intelligence-dashboard-powerbi-calude-MCP)**  
   *Stack: Power BI · FastMCP Claude Server · DAX · Forensic Modeling*  
   Enterprise fraud surveillance system analyzing 100K+ transactional records. Leveraged dynamic risk scoring and AI-driven forensic reporting to flag synthetic fraud and unauthorized velocity spikes.
 
@@ -87,7 +87,7 @@ My analytical work is centered around **solving core business problems** — opt
   *Stack: Microsoft Excel · Power Query · Power Pivot · DAX (xVelocity)*  
   Modeled millions of retail rows into an optimized in-memory xVelocity Data Model. Designed automated gross margin, MoM growth, and customer regional segmentation reports with zero external BI dependencies.
 
-* **[Public Transit & Fleet Operations Intelligence Dashboard](https://github.com/ravinder0710/public-transit-fleet-operations-excel)**  
+* **[Public Transit & Fleet Operations Intelligence Dashboard](https://github.com/ravinder0710/public-transit-fleet-operations-excel-claude-MCP)**  
   *Stack: Microsoft Excel · Power Pivot · DAX · Claude AI MCP · Power Query*  
   Urban mobility and fleet utilization platform tracking 6.5K+ passenger trips, peak/off-peak ridership, route bottlenecks, and bus capacity optimization with an AI-assisted MCP workflow.
 
