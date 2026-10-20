@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ravinder0710&color=blueviolet&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Active-success?style=flat-square)](#-flagship-analytics-projects-suite)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Website-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://ravinder0710.github.io)
 [![Email](https://img.shields.io/badge/Email-iamravindergupta17%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:iamravindergupta17@gmail.com)
 
 ---
@@ -332,6 +332,7 @@ My analytical work is centered around **solving core business problems** — opt
 ---
 
 ## 📫 Connect With Me
+* **Live Web Portfolio**: [ravinder0710.github.io](https://ravinder0710.github.io)
 * **Email**: [iamravindergupta17@gmail.com](mailto:iamravindergupta17@gmail.com)
 * **GitHub**: [github.com/ravinder0710](https://github.com/ravinder0710)
 * **LinkedIn**: [linkedin.com](https://linkedin.com)
