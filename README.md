@@ -1,4 +1,4 @@
-# Hi there, I'm Ravinder Gupta 👋
+# Hi there, I'm Ravinder Gupta
 ### 📊 Data Analyst | Business Intelligence & Analytics Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ravinder0710&color=blueviolet&style=flat-square)
