@@ -87,17 +87,21 @@ My analytical work is centered around **solving core business problems** — opt
 <table>
   <tr>
     <td width="50%" align="center"><b>📊 Executive Operational Cockpit (Page 2)</b></td>
-    <td width="50%" align="center"><b>🏍️ Showroom Landing & Brand Portal (Page 1)</b></td>
+    <td width="50%" align="center"><b>🏗️ Data Architecture & Analytical Pipeline</b></td>
   </tr>
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/ravinder0710/honda-sales-analytics-powerbi-n8n" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710.github.io/main/assets/honda/dashboard_2_overview.png" width="400" alt="Honda Operational Overview Cockpit" />
       </a>
+      <br /><br />
+      <a href="https://github.com/ravinder0710/honda-sales-analytics-powerbi-n8n" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710.github.io/main/assets/honda/dashboard_1_home.png" width="400" alt="Honda Showroom Brand Portal" />
+      </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/ravinder0710/honda-sales-analytics-powerbi-n8n" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710.github.io/main/assets/honda/dashboard_1_home.png" width="400" alt="Honda Showroom Portal" />
+        <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/honda-sales-analytics-powerbi-n8n_pipeline.png" width="400" alt="Honda Two-Wheelers Data Architecture Pipeline" />
       </a>
     </td>
   </tr>
