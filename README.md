@@ -77,7 +77,7 @@ My analytical work is centered around **solving core business problems** — opt
 ---
 
 ### 🌟 Enterprise Automated Honda Sales Analytics Pipeline & Live Power BI Dashboard
-🔗 **Repository**: <a href="https://github.com/ravinder0710/honda-sales-analytics-powerbi-n8n" target="_blank" rel="noopener noreferrer"><b>honda-sales-analytics-powerbi-n8n</b></a> | 🎮 <a href="https://ravinder0710.github.io/honda-dashboard.html" target="_blank" rel="noopener noreferrer"><b>Live Motion Dashboard</b></a>  
+🔗 **Repository**: <a href="https://github.com/ravinder0710/honda-sales-analytics-powerbi-n8n" target="_blank" rel="noopener noreferrer"><b>honda-sales-analytics-powerbi-n8n</b></a> | 🎮 <a href="https://ravinder0710.github.io/honda-walkthrough.html" target="_blank" rel="noopener noreferrer"><b>Live Project Walkthrough</b></a>  
 🛠️ **Tech Stack**: `Power BI (DirectQuery)` · `Neon Serverless PostgreSQL` · `n8n Automation` · `Python` · `DAX`  
 🎯 **Business Problem**: Decentralized dealer exports across high-volume clusters in India caused 2-3 hour daily reporting delays, localized date/margin discrepancies, and zero intraday visibility into stockouts and dealer margin erosion.  
 💡 **Architecture & Solution**: Architected a 100% free-tier automated cloud ETL pipeline syncing multi-branch transactional CSVs into AWS Neon PostgreSQL, orchestrated by automated n8n workflows, and serving an executive 4-page Power BI DirectQuery cockpit with intraday transaction drill-downs.  
