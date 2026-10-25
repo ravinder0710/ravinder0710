@@ -76,6 +76,35 @@ My analytical work is centered around **solving core business problems** — opt
 
 ---
 
+### 🌟 Enterprise Automated Honda Sales Analytics Pipeline & Live Power BI Dashboard
+🔗 **Repository**: <a href="https://github.com/ravinder0710/honda-sales-analytics-powerbi-n8n" target="_blank" rel="noopener noreferrer"><b>honda-sales-analytics-powerbi-n8n</b></a> | 🎮 <a href="https://ravinder0710.github.io/honda-dashboard.html" target="_blank" rel="noopener noreferrer"><b>Live Motion Dashboard</b></a>  
+🛠️ **Tech Stack**: `Power BI (DirectQuery)` · `Neon Serverless PostgreSQL` · `n8n Automation` · `Python` · `DAX`  
+🎯 **Business Problem**: Decentralized dealer exports across high-volume clusters in India caused 2-3 hour daily reporting delays, localized date/margin discrepancies, and zero intraday visibility into stockouts and dealer margin erosion.  
+💡 **Architecture & Solution**: Architected a 100% free-tier automated cloud ETL pipeline syncing multi-branch transactional CSVs into AWS Neon PostgreSQL, orchestrated by automated n8n workflows, and serving an executive 4-page Power BI DirectQuery cockpit with intraday transaction drill-downs.  
+📈 **Commercial Impact**: Reduced reporting latency from 48 hours to near real-time, isolated Activa 6G as high-velocity margin driver (38% volume), and eliminated all recurring cloud infrastructure costs ($0.00/month).  
+📊 **Core Project KPIs**: `₹59.63 Cr Total Revenue` · `5,617 Units Sold` · `₹1.06L Average Unit Price` · `4-Page DirectQuery Cockpit` · `100% Zero-Cost Cloud Infrastructure`
+
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 Executive Operational Cockpit (Page 2)</b></td>
+    <td width="50%" align="center"><b>🏍️ Showroom Landing & Brand Portal (Page 1)</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/honda-sales-analytics-powerbi-n8n" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710.github.io/main/assets/honda/dashboard_2_overview.png" width="400" alt="Honda Operational Overview Cockpit" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/honda-sales-analytics-powerbi-n8n" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710.github.io/main/assets/honda/dashboard_1_home.png" width="400" alt="Honda Showroom Portal" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 1. 🏦 Bank Loan Portfolio Risk & Liquidity Analytics
 🔗 **Repository**: <a href="https://github.com/ravinder0710/bank-loan-analysis-sql-powerbi-python" target="_blank" rel="noopener noreferrer"><b>bank-loan-analysis-sql-powerbi-python</b></a>  
 🛠️ **Tech Stack**: `MySQL` · `Power BI` · `Python (Pandas, Seaborn)` · `DAX`  
