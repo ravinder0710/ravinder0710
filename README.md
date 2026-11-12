@@ -388,7 +388,7 @@ My analytical work is centered around **solving core business problems** — opt
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/ravinder0710/healthcare-provider-analytics-powerbi" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/ravinder0710/healthcare-provider-analytics-powerbi/main/screenshots/healthcare_model_view.png" width="400" alt="Healthcare Data Model Architecture" />
+        <img src="https://raw.githubusercontent.com/ravinder0710/ravinder0710/main/pipeline_diagrams/healthcare-provider-analytics-powerbi_pipeline.png" width="400" alt="Healthcare Data Architecture Pipeline" />
       </a>
     </td>
   </tr>
