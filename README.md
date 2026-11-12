@@ -363,6 +363,39 @@ My analytical work is centered around **solving core business problems** — opt
 
 ---
 
+### 11. 🏥 Healthcare Provider Analytics & Revenue Cycle Management (RCM) Suite
+🔗 **Repository**: <a href="https://github.com/ravinder0710/healthcare-provider-analytics-powerbi" target="_blank" rel="noopener noreferrer"><b>healthcare-provider-analytics-powerbi</b></a>  
+🛠️ **Tech Stack**: `Power BI (Dual Theme)` · `Advanced DAX` · `Star/Snowflake Schema` · `SQL Views` · `Field Parameters`  
+🎯 **Business Problem**: Healthcare provider networks face acute margin compression, insurance claim rejection cycles, and operational capacity constraints across inpatient, outpatient, and emergency divisions.  
+💡 **Architecture & Solution**: Architected a Star/Snowflake dimensional model across 5,000 patient encounters and 8 relational entities. Implemented dynamic Field Parameters for time and metric switching, active/inactive relationship handling for admission tracking, and custom DAX iterators (`SUMX`) for dynamic bed charges.  
+📈 **Commercial Impact**: Reconciled **£3.36M in gross hospital billing**, tracked **£2.23M (66.4%) in payor settlements**, and identified **£1.13M in patient out-of-pocket liabilities**, equipping clinical executives with granular margin and LOS control.  
+📊 **Core Project KPIs**: `5,000 Patient Encounters` · `£3.36M Gross Billing` · `£2.23M Insurance Settled` · `£1.13M Out of Pocket` · `7.20 / 10 Avg Patient Satisfaction` · `55.4% Revenue from Top 2 Procedures (X-Ray & CT Scan)`
+
+<table>
+  <tr>
+    <td width="50%" align="center"><b>📊 Interactive Dashboards (Light & Dark Executive Themes)</b></td>
+    <td width="50%" align="center"><b>🏗️ Semantic Data Model & Architecture</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/healthcare-provider-analytics-powerbi" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/ravinder0710/healthcare-provider-analytics-powerbi/main/screenshots/healthcare_dashboard_light.png" width="400" alt="Healthcare Provider Dashboard (Light Mode)" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/ravinder0710/healthcare-provider-analytics-powerbi" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/ravinder0710/healthcare-provider-analytics-powerbi/main/screenshots/healthcare_dashboard_dark.png" width="400" alt="Healthcare Provider Dashboard (Dark Mode)" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ravinder0710/healthcare-provider-analytics-powerbi" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/ravinder0710/healthcare-provider-analytics-powerbi/main/screenshots/healthcare_model_view.png" width="400" alt="Healthcare Data Model Architecture" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📫 Connect With Me
 * **Live Web Portfolio**: <a href="https://ravinder0710.github.io" target="_blank" rel="noopener noreferrer"><b>ravinder0710.github.io</b></a>
 * **Email**: <a href="mailto:iamravindergupta17@gmail.com">iamravindergupta17@gmail.com</a>
